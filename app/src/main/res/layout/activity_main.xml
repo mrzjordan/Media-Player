@@ -12,6 +12,7 @@
         android:layout_centerInParent="true"
         android:text="Hello!"
         android:textSize="40sp"
-        android:textColor="#c52a2a"/>
+        android:textColor="#c52a2a"
+        android:hint="viewer"/>
 
 </RelativeLayout>
