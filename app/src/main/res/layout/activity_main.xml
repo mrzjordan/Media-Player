@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Hello!"
+        android:text="Music Player"
         android:textSize="40sp"
         android:textColor="#c52a2a"
         android:hint="viewer"
