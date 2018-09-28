@@ -14,6 +14,7 @@
         android:textSize="40sp"
         android:textColor="#c52a2a"
         android:hint="viewer"
-        android:gravity="center"/>
+        android:gravity="center"
+        android:layout_marginTop="20dp"/>
 
 </RelativeLayout>
