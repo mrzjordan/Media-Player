@@ -13,6 +13,7 @@
         android:text="Hello!"
         android:textSize="40sp"
         android:textColor="#c52a2a"
-        android:hint="viewer"/>
+        android:hint="viewer"
+        android:gravity="center"/>
 
 </RelativeLayout>
